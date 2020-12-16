@@ -1,0 +1,4 @@
+include ':frescp'
+include ':wto'
+include ':app'
+rootProject.name = "12.2Demo"
